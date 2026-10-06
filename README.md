@@ -21,6 +21,8 @@ The goal of this project is to design a **Q-learning based controller** so that 
 - does not freeze in a **deadlock** when aisles are crowded or head-on,
 - handles **edge cases**: shared destinations, dead ends, tight corridors, winding routes, loops.
 
+[demo run](https://github.com/user-attachments/assets/ced3cde8-d0e9-4498-bbd3-fc59ac6bbd0d)
+
 ---
 
 ## Features
